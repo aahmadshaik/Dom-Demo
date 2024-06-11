@@ -19,7 +19,7 @@ The Movie Watch List project is a web application built using HTML, CSS, and Jav
 
 1. Clone this repository to your local machine using:
     ```bash
-    git clone https://github.com/your-username/movie-watch-list.git
+    git clone (https://github.com/aahmadshaik/Dom-Demo.git)
     ```
 
 2. Navigate to the project directory:
